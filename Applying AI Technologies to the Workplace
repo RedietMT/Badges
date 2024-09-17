@@ -1,0 +1,65 @@
+{
+  "type": "BadgeClass",
+  "id": "https://api.badgr.io/public/badges/8TS661-aSJS5qW1-ykGeug",
+  "@context": "https://w3id.org/openbadges/v2",
+  "name": "Applying AI Technologies to the Workplace",
+  "image": {
+    "id": "https://api.badgr.io/public/badges/8TS661-aSJS5qW1-ykGeug/image"
+  },
+  "description": "Earners of this badge attended four 90-minute virtual classes to deepen their practical knowledge and practical applications of AI in the workplace. In the first three sessions, learners explored AI trends, developed skills in selecting and managing AI tools, and practiced making responsible, ethical AI decisions. The fourth session focused on a specific industry, examining how to leverage AI technologies in workplace settings. Each class included interactive assessments.",
+  "issuer": "https://api.badgr.io/public/issuers/WOyxSKfwRSO0vy8BQ_i7Ig",
+  "tags": [
+    "#northeasternuniversity",
+    "#artificialintelligence",
+    "office of the chancellor",
+    "education innovation",
+    "office of the provost",
+    "#aiinaction"
+  ],
+  "alignment": [
+    {
+      "targetName": "Ethical Standards And Conduct",
+      "targetUrl": "https://lightcast.io/open-skills/skills/ESD45EAB54A83A5255D6",
+      "targetFramework": "EMSI",
+      "targetCode": "ESD45EAB54A83A5255D6"
+    },
+    {
+      "targetName": "Decision Making",
+      "targetUrl": "https://lightcast.io/open-skills/skills/KS121W46CJXQ5ZQ506MS",
+      "targetFramework": "EMSI",
+      "targetCode": "KS121W46CJXQ5ZQ506MS"
+    },
+    {
+      "targetName": "Problem Solving",
+      "targetUrl": "https://lightcast.io/open-skills/skills/KS125F678LV2KB3Z5XW0",
+      "targetFramework": "EMSI",
+      "targetCode": "KS125F678LV2KB3Z5XW0"
+    },
+    {
+      "targetName": "Artificial Intelligence",
+      "targetUrl": "https://lightcast.io/open-skills/skills/KS120BV6SR75RBKQH0G3",
+      "targetFramework": "EMSI",
+      "targetCode": "KS120BV6SR75RBKQH0G3"
+    },
+    {
+      "targetName": "Innovation",
+      "targetUrl": "https://lightcast.io/open-skills/skills/KS1253H61TTR1FZWSRH4",
+      "targetFramework": "EMSI",
+      "targetCode": "KS1253H61TTR1FZWSRH4"
+    }
+  ],
+  "criteria": {
+    "narrative": "- Register for the Northeastern University non-credit bootcamp, [“AI in Action: Build Your Toolkit”](https://aiinaction.sites.northeastern.edu/). \n- Attend four 90-minute virtual class sessions. \n- Pass the assessment for each class (4) at 75% or above.\n\nAssessed Learning Outcomes:\n-  Explore AI's capabilities and associated risks to make decisions about the use of artificial intelligence in a workplace setting. (Session 1)\n- Distinguish among examples of AI adoption in the public and private sector considering the limitations and ethical issues of AI technologies. (Session 2)\n- Analyze the risks and contexts associated with AI applications and strategic implementation for efficiency and innovation. (Session 3)\n- Identify AI tools that align with workplace objectives considering existing opportunities and risks, in one of the following domain areas: Government/Democracy; Healthcare; Business; Arts, Media & Design; Design, Fabrication & Innovation; and Network Science. (Session 4)"
+  },
+  "extensions:extraDescription": [
+    {
+      "@context": "https://purl.imsglobal.org/spec/ob-exdesc/v1p0/context/",
+      "type": [
+        "Extension",
+        "extensions:ExtraDescriptionExtension"
+      ],
+      "name": "Learn more",
+      "narrative": "Sponsored by the Provost’s and Chancellor’s Offices. Learn more at [AI in Action ](https://aiinaction.sites.northeastern.edu/)."
+    }
+  ]
+}
